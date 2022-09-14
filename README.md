@@ -21,7 +21,7 @@ Club Executive, Active Minds Western
 
 #### Hamilton, Ontario | June 2022 - Present
 
-- Develop Angular (TypeScript) applications and REST APIs in C# (.NET) that track coil composition, genealogy and status in Pickling & Cold Rolling business units, which process more than $4bn of product per annum
+- Develop Angular (TypeScript) applications and REST APIs in C# (.NET Core) that track coil composition, genealogy and status in Pickling & Cold Rolling business units, which process more than $4bn of product per annum
 -  Maintain Oracle (SQL) database functions for API and production software usage
 - Wrote canny edge detection scripts in Python for automated quality control reporting
 - Troubleshoot production software and database discrepancies, as well as general bug fixes to prevent downtime
