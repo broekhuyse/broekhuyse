@@ -19,7 +19,7 @@ Club Executive, Active Minds Western
 
 ### ArcelorMittal Dofasco, _Process Automation Analyst_
 
-#### Hamilton, Ontario | June 2022 - September 2022
+#### Hamilton, Ontario | June 2022 - Present
 
 - Develop Angular (TypeScript) applications and REST APIs in C# (.NET) that track coil composition, genealogy and status in Pickling & Cold Rolling business units, which process more than $4bn of product per annum
 -  Maintain Oracle (SQL) database functions for API and production software usage
