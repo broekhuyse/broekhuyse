@@ -41,7 +41,7 @@ _React_ - Displays Strava activity data in single-page app from their REST API
 
 #### Languages
 
-C#, TypeScript, JavaScript, Python, MySQL, Go, Java, Unix/Bash, VBA
+C#, TypeScript, JavaScript, Python, MySQL, Go, Java, Sass, Unix/Bash, VBA
 
 #### Frameworks
 
